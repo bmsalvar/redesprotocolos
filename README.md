@@ -1,4 +1,4 @@
-Redes de Computadores e a Internet
+## Redes de Computadores e a Internet
 
 Este livro aborda os princípios fundamentais e práticas contemporâneas de **redes de computadores** e da **Internet**, estruturando seu conteúdo a partir de uma **abordagem top-down**, que inicia na camada de aplicação e desce até a camada física. A obra detalha a arquitetura de **cinco camadas da Internet**, explorando componentes cruciais como sistemas finais, protocolos, comutadores de pacotes, enlaces de acesso e o núcleo da rede. Além disso, são discutidos temas essenciais como **segurança em redes**, controle de congestionamento, roteamento, criptografia e gerenciamento de rede, utilizando exemplos atuais e materiais de apoio para estudantes e professores.
 
